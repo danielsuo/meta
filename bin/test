@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+coverage run -m meta
+coverage-badge -o assets/img/coverage.svg
